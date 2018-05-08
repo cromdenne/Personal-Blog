@@ -2,37 +2,7 @@
 <html lang="en">
   <head>
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A blog by Cory Romdenne.">
-    <meta name="keywords" 
-          content="travel,development,hacking,soccer,photography">
-    <meta name="author" content="Cory Romdenne">
-
-    <title>Cory Explores</title>
-
-    <!-- favicon -->
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-
-    <!-- Bootstrap -->
-    <link rel="stylesheet"
-          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
-          crossorigin="anonymous">
-
-    <!-- Font Awesome -->
-    <link rel="stylesheet"
-          href="https://use.fontawesome.com/releases/v5.0.12/css/all.css"
-          integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9"
-          crossorigin="anonymous">
-
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Didact+Gothic|Gilda+Display"
-          rel="stylesheet">
-
-    <!-- custom styles -->
-    <link href="css/main.css" rel="stylesheet">
+    {% include meta.html %}
     
   </head>
   <body>
@@ -43,41 +13,17 @@
       <div class="border-left-top"></div>
       <div class="border-left-bottom"></div>
       <img class="img-fluid splash"
-           src="https://images.unsplash.com/photo-1428342319217-5fdaf6d7898e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cd4ebbc9df81f24074da7baef00939f7&auto=format&fit=crop&w=1375&q=80"
-           alt="San Francisco Golden Gate Bridge">
+           src="{{ page.splash }}"
+           alt="{{ page.splashAlt }}">
       <div class="splash-text">
-        <h3>Cory</h3>
-        <h1>Explores</h1>
+        <h3>{{ page.splashTitleSmall }}</h3>
+        <h1>{{ page.splashTitleLarge }}</h1>
       </div><!-- /.splash-text -->
       <div class="border-right-top"></div>
       <div class="border-right-bottom"></div>
     </div><!-- /.splashspace -->
     
-    <div class="container-fluid content">
-      <div class="container">
-        {% for post in site.posts %}
-        <div class="row no-gutters">
-          <div class="col-md-7">
-            <img class="img-fluid"
-                 src="{{ post.hero }}"
-                 alt="{{ post.heroAlt }}">
-          </div><!-- /.col-md-5 -->
-          <div class="col-md-5">
-            <div class="postcard">
-              <h2 class="title">
-                <a href="{{ post.url }}">{{ post.title }}</a>
-              </h2>
-              <p class="date">{{ post.date | date: '%^b %d, %Y' }}</p>
-              <p class="excerpt">
-                {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
-              </p>
-              <a href="{{ post.url }}">READ MORE</a>
-            </div><!-- /.postcard -->
-          </div><!-- /.col-md-4 -->
-        </div><!-- /.row -->
-        {% endfor %}
-      </div><!-- /.container -->
-    </div><!-- /.container-fluid -->
+    {{ content }}
 
     {% include footer.html %}
 
