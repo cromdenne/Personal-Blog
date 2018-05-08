@@ -29,9 +29,14 @@ euismod scelerisque eros, id euismod urna finibus ut. Ut ut dapibus orci, in
 elementum nibh. Cras pretium enim nec placerat faucibus. Nulla laoreet dictum
 porttitor.
 
-<img class="img-fluid"
-     src="https://images.unsplash.com/photo-1484782777011-fb19ad5d8d3d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cfc09223d21ac261e65cd6506a6d4f6f&auto=format&fit=crop&w=1050&q=80"
-     alt="Twin Peaks vista at night">
+<div class="caption-img">
+  <img class="img-fluid"
+       src="https://images.unsplash.com/photo-1484782777011-fb19ad5d8d3d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cfc09223d21ac261e65cd6506a6d4f6f&auto=format&fit=crop&w=1050&q=80"
+       alt="Twin Peaks vista at night">
+  <div class="caption">
+    <p>Twin Peaks offers breathtaking views, even at night</p>
+  </div>
+</div>
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
 inceptos himenaeos. Sed consectetur ante et sem malesuada condimentum. Etiam

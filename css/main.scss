@@ -96,11 +96,14 @@ p {
 }
 
 /*===========================================================================*/
-/* content                                                                   */
+/* blog feed                                                                 */
 /*===========================================================================*/
 .content {
   background-color: $black;
   color: $white;
+}
+
+.blogfeed {
   padding-top: 5em;
   padding-bottom: 5em;
 }
@@ -114,7 +117,7 @@ p {
   padding: 2em;
   .date {
     font-size: 0.95em;
-    font-weight: bol;
+    font-weight: bold;
     opacity: 0.4;
     text-transform: uppercase;
   }
@@ -135,6 +138,40 @@ p {
     position: absolute;
     top: 50%;
     transform: translate(0, -50%); 
+  }
+}
+
+/*===========================================================================*/
+/* post                                                                      */
+/*===========================================================================*/
+.postsplash {
+  background: rgba($white, 0.75);
+  color: $black;
+  left: 50%;
+  padding: 2em 5em;
+  position: absolute;
+  top: 100%;
+  transform: translate(-50%, -100%);
+  .date {
+    opacity: 0.5;
+  }
+}
+
+.post {
+  background: $white;
+  color: $black;
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.caption-img {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  .caption {
+    border-left: 10px solid $black;
+    font-size: 0.85em;
+    opacity: 0.6;
+    padding: 1em 1em 0 1em;
   }
 }
 
