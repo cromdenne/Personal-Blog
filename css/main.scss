@@ -1,0 +1,92 @@
+---
+# Frontmatter comment to ensure Jekyll properly reads file.
+---
+
+/*===========================================================================*/
+/* global styles                                                             */
+/*===========================================================================*/
+body {
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Gilda Display', serif;
+  letter-spacing: 2px;
+}
+
+a {
+  color: #ffbd41;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.75;
+  letter-spacing: 1px;
+}
+
+/*===========================================================================*/
+/* splash header                                                             */
+/*===========================================================================*/
+.splashspace {
+  color: #ffffff;
+  position: relative;
+  div[class|='border'] {
+    content: "";
+    position: absolute;
+    width: 35px;
+  }
+  div[class|='border-left'] {
+    left: 0;
+  }
+  div[class|='border-right'] {
+    right: 0;
+  }
+  div[class*='top'] {
+    background-color: #ffffff;
+    bottom: 50%;
+    top: 0;
+  }
+  div[class*='bottom'] {
+    background-color: #3a3a3a;
+    bottom: 0;
+    top: 50%;
+  }
+  img.splash {
+    width: 100%;
+  }
+  .splash-text {
+    left: 35px;
+    padding-left: 1em;
+    position: absolute;
+    top: 50%;
+    h1 {
+      font-size: 5em;
+      letter-spacing: 15px;
+      transform: translate(0, -45%);
+    }
+    h3 {
+      letter-spacing: 15px;
+      transform: translate(0, -105%);
+    }
+  }
+}
+
+/*===========================================================================*/
+/* content                                                                   */
+/*===========================================================================*/
+.content {
+  background-color: #3a3a3a;
+  color: #ffffff;
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+/*===========================================================================*/
+/* footer                                                                    */
+/*===========================================================================*/
+.footer {
+  background-color: #2a2a2a;
+  color: #ffffff;
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+}
