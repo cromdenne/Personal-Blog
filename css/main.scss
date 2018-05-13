@@ -152,16 +152,38 @@ p {
   position: absolute;
   top: 100%;
   transform: translate(-50%, -100%);
+  .title {
+    font-size: 2em;
+  }
   .date {
+    margin-bottom: 0;
     opacity: 0.5;
   }
+}
+
+@media (max-width: 768px) {
+  .postsplash {
+    padding: 2em;
+    .title {
+      font-size: 1.5em;
+    }
+    .date {
+      font-size: 0.8em;
+    }
+  }
+}
+
+.post-container {
+  background-color: $black;
+  padding-left: 35px;
+  padding-right: 35px;
+  width: 100%;
 }
 
 .post {
   background: $white;
   color: $black;
-  padding-top: 5em;
-  padding-bottom: 5em;
+  padding: 5em 2.5em;
 }
 
 .caption-img {
