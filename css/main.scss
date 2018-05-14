@@ -108,22 +108,10 @@ p {
   padding-bottom: 5em;
 }
 
-/*===========================================================================*/
-/* postcard                                                                  */
-/*===========================================================================*/
 .postcard {
   background-color: $white;
   color: $black;
   padding: 2em;
-  .date {
-    font-size: 0.95em;
-    font-weight: bold;
-    opacity: 0.4;
-    text-transform: uppercase;
-  }
-  .excerpt {
-    font-size: 0.85em;
-  }
 }
 
 @media (max-width: 991.98px) {
@@ -139,6 +127,17 @@ p {
     top: 50%;
     transform: translate(0, -50%); 
   }
+}
+
+.date {
+  font-size: 0.95em;
+  font-weight: bold;
+  opacity: 0.4;
+  text-transform: uppercase;
+}
+
+.excerpt {
+  font-size: 0.85em;
 }
 
 /*===========================================================================*/
@@ -194,6 +193,67 @@ p {
     font-size: 0.85em;
     opacity: 0.6;
     padding: 1em 1em 0 1em;
+  }
+}
+
+/*===========================================================================*/
+/* archive                                                                   */
+/*===========================================================================*/
+.archived-post {
+  background-color: $white;
+  color: $black;
+  & .date:first-child {
+    color: $white;
+    font-size: 0.75em;
+    font-weight: normal;
+    left: 0;
+    letter-spacing: 4px;
+    margin-left: -30px;
+    position: absolute;
+    writing-mode: vertical-rl;
+  }
+}
+
+.postblurb {
+  padding: 0 1em;
+  .title {
+    font-size: 1.5em;
+  }
+  .date {
+    display: none;
+    margin-bottom: none;
+  }
+  .excerpt {
+    font-size: 0.85em;
+    margin-bottom: 0.5em;
+  }
+}
+
+@media (max-width: 992px) {
+  .postblurb {
+    .more {
+      display: none;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .archived-post {
+    & .date:first-child {
+      display: none;
+    }
+  }
+  .postblurb {
+    .title {
+      font-size: 1em;
+    }
+    .date {
+      display: block;
+      font-size: 0.75em;
+    }
+    .excerpt {
+      display: none;
+    }
   }
 }
 
