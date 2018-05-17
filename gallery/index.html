@@ -1,0 +1,90 @@
+---
+layout: default
+title: Cory Explores
+splash: https://images.unsplash.com/photo-1468476396571-4d6f2a427ee7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ef2d2a1d0b76995c54c14d88320fae23&auto=format&fit=crop&w=1444&q=80
+splashAlt: Port of San Francisco at night
+splashTitleLarge: Gallery
+---
+
+<div class="container-fluid content">
+  <div class="container gallery">
+    <div class="card-columns">
+      {% for photo in site.photos %}
+        <a data-toggle="modal" data-target="#{{ photo.path }}">
+          <div class="card">
+            <img class="card-img"
+                 src="{{ photo.image_path }}"
+                 alt="{{ photo.title }}">
+            <div class="card-img-overlay">
+              <h5>{{ photo.title }}</h5>
+              <p>
+                {{ photo.location }}<br>
+                {{ photo.time }}
+              </p>
+              <div class="magnifier"><i class="fas fa-search-plus"></i></div>
+            </div><!-- /.card-img-overlay -->
+          </div><!-- /.card -->
+        </a>
+        <div class="modal fade" id="{{ photo.path }}" tabindex="-1"
+             role="dialog" aria-labelledby="{{ photo.path }}"
+             aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg"
+               role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title">
+                  {{ photo.title }}
+                  <small>{{ photo.location }}</small>
+                </h5>
+                <button type="button" class="close" data-dismiss="modal"
+                        aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div><!-- /.modal-header -->
+              <div class="modal-body">
+                <img class="img-fluid"
+                     src="{{ photo.image_path }}"
+                     alt="{{ photo.title }}">
+                <div class="photo-story">
+                  {{ photo.content }}
+                </div><!-- /.photo-story -->
+              </div><!-- /.modal-body -->
+              <div class="modal-footer">
+                <div class="container exif">
+                  <div class="row">
+                    <div class="col-4">
+                      <small>Taken</small>
+                      <p>{{ photo.time }}</p>
+                    </div><!-- /.col-4 -->
+                    <div class="col-4">
+                      <small>Camera</small>
+                      <p>{{ photo.camera_make}} {{ photo.camera_model }}</p>
+                    </div><!-- /.col-4 -->
+                    <div class="col-4">
+                      <small>Focal Length</small>
+                      <p>{{ photo.focal_length }}mm</p>
+                    </div><!-- /.col-4 -->
+                  </div><!-- /.row -->
+                  <div class="row">
+                    <div class="col-4">
+                      <small>Aperture</small>
+                      <p><em>&fnof;</em>/{{ photo.aperture }}</p>
+                    </div><!-- /.col-4 -->
+                    <div class="col-4">
+                      <small>Shutter Speed</small>
+                      <p>{{ photo.shutter_speed }}s</p>
+                    </div><!-- /.col-4 -->
+                    <div class="col-4">
+                      <small>ISO</small>
+                      <p>{{ photo.iso }}</p>
+                    </div><!-- /.col-4 -->
+                  </div><!-- /.row -->
+                </div><!-- /.container -->
+              </div><!-- /.modal-footer -->
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+      {% endfor %}
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</div><!-- /.container-fluid -->
