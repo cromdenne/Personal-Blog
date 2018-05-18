@@ -11,7 +11,7 @@ excerpt_separator: <!-- end_excerpt -->
 I'm a relatively introverted guy and I've always felt strange posting on 
 Facebook or Twitter. No, I wanted a platform where I could share on my own
 terms.
-
+<!-- end_excerpt -->
 *I wanted to build something that was my own.* Although I'm quite the
 amateur, I enjoy designing and coding things. I find inspiration in the
 projects that others bring to life.
