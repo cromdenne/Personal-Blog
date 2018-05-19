@@ -25,7 +25,7 @@ document useful coding tricks.
 I discovered Jekyll, and the rest fell into place.
 
 What follows is a broad overview of the photography features I created on this 
-blog using [Jekyll](https://jekyllrb.com/){:target="blank"}, [GitHub
+blog using [Jekyll](https://jekyllrb.com/){: .underline-effect}{:target="blank"}, [GitHub
 Pages](https://pages.github.com/){:target="blank"},
 [Bootstrap](http://getbootstrap.com/){:target="blank"} and 
 [Flickr](http://www.flickr.com/){:target="blank"}. I wanted to document this 
@@ -42,4 +42,29 @@ up](https://help.github.com/articles/setting-up-your-github-pages-site-locally-w
 Let's start by creating a new `_photos` collection at the root of our jekyll
 site.
 
-    mkdir _photos
+<div class="code-block">
+  <div class="header">
+Create a new folder for our photos collection<br>
+<code>Mac terminal prompt</code>
+  </div><!-- /.header -->
+  <div class="code"><code>
+    [website (master)]$ mkdir _photos
+  </code></div><!-- /.code -->
+</div><!-- /.code-block -->
+
+Next, we need to tell Jekyll that we have a new collection. Let's update our
+`_config.yml` file (or create one if we haven't yet).
+
+<div class="code-block">
+  <div class="header">
+Update our config file so Jekyll knows about our new collection<br>
+<code>~/website/_config.yml</code>
+  </div><!-- /.header -->
+  <div class="code"><code>
+    collections:<br>
+    &nbsp;&nbsp;photos:
+  </code></div><!-- /.code -->
+</div><!-- /.code-block -->
+
+There are some other settings we can modify here in the config file, but for
+now we don't need to add anything else.

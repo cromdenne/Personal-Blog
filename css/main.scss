@@ -39,6 +39,74 @@ p {
 }
 
 /*===========================================================================*/
+/* effects                                                                   */
+/*===========================================================================*/
+a, a:hover {
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.slide-effect a {
+  overflow: hidden;
+}
+
+.slide-effect a span {
+  display: inline-block;
+  position: relative;
+  -webkit-transition: -webkit-transform 0.3s;
+  -moz-transition: -moz-transform 0.3s;
+  transition: transform 0.3s;
+}
+
+.slide-effect a span::before {
+  color: $gold;
+  content: attr(data-hover);
+  font-weight: 700;
+  position: absolute;
+  -webkit-transform: translate3d(0,0,0);
+  -moz-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+  top: -200%;
+}
+
+.slide-effect a:hover span,
+.slide-effect a:focus span {
+  -webkit-transform: translateY(200%);
+  -moz-transform: translateY(200%);
+  transform: translateY(200%);
+}
+
+.underline-effect {
+  position: relative;
+}
+
+.underline-effect::after {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: $gold;
+  content: '';
+  opacity: 0;
+  -webkit-transition: height 0.3s, opacity 0.3s, -webkit-transform 0.3s;
+  -moz-transition: height 0.3s, opacity 0.3s, -moz-transform 0.3s;
+  transition: height 0.3s, opacity 0.3s, transform 0.3s;
+  -webkit-transform: translateY(-10px);
+  -moz-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+
+.underline-effect:hover::after,
+.underline-effect:focus::after {
+  height: 3px;
+  opacity: 1;
+  -webkit-transform: translateY(0px);
+  -moz-transform: translateY(0px);
+  transform: translateY(0px);
+}
+
+/*===========================================================================*/
 /* about                                                                     */
 /*===========================================================================*/
 #about {
@@ -197,6 +265,24 @@ p {
     font-size: 0.85em;
     opacity: 0.6;
     padding: 1em 1em 0 1em;
+  }
+}
+
+.code-block {
+  background-color: #e9e9e9;
+  margin-bottom: 2em;
+  .header {
+    background-color: #cfcfcf;
+    padding: 1em;
+  }
+  .code {
+    padding: 1em;
+    code {
+      color: $black;
+    }
+    .comment {
+      opacity: 0.3;
+    }
   }
 }
 
