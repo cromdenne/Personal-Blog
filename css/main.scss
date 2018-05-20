@@ -8,6 +8,7 @@
 $black: #3a3a3a;
 $white: #ffffff;
 $gold: #ffbd41;
+$blue: #007ef6;
 
 /*===========================================================================*/
 /* global styles                                                             */
@@ -38,12 +39,24 @@ p {
   color: $gold !important;
 }
 
+.badge-gold {
+  background-color: $gold;
+  border-radius: 0;
+  color: $white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 /*===========================================================================*/
 /* effects                                                                   */
 /*===========================================================================*/
 a, a:hover {
-  text-decoration: none;
   transition: 0.3s;
+}
+
+a:hover {
+  color: $blue;
+  text-decoration: none;
 }
 
 .slide-effect a {
@@ -78,6 +91,9 @@ a, a:hover {
 
 .underline-effect {
   position: relative;
+  &:hover {
+    color: $gold;
+  }
 }
 
 .underline-effect::after {
@@ -283,6 +299,24 @@ a, a:hover {
     .comment {
       opacity: 0.3;
     }
+  }
+}
+
+.note {
+  margin-bottom: 1em;
+  padding: 1em;
+  .label {
+    background-color: $gold;
+    color: $white;
+    padding-left: 1em;
+  }
+  .vertical-rule {
+    border-right: 1px solid darken($gold, 15%);
+    padding-left: 1em;
+  }
+  .text {
+    background-color: #f3f3f3;
+    padding: 1em;
   }
 }
 

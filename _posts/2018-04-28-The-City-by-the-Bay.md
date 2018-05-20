@@ -17,11 +17,23 @@ bibendum rutrum. Maecenas vulputate consequat dolor, et vehicula diam tincidunt
 eget. Nullam sit amet est bibendum, commodo nisi eu, posuere ante. Aenean elit
 erat, lacinia at metus id, tempor vulputate nisi.
 
-Cras et justo vel sapien malesuada consectetur. Duis facilisis tortor quis
+Cras et justo vel sapien malesuada consectetur. <span class="badge
+badge-gold">1</span> Duis facilisis tortor quis
 ullamcorper semper. Sed blandit massa tortor, vel fringilla magna ullamcorper
 at. Vivamus vel malesuada erat, in rhoncus arcu. Suspendisse finibus massa sit
 amet odio blandit rhoncus. Aliquam imperdiet dolor sem, molestie ultrices magna
-molestie eu. Morbi mattis molestie augue, non eleifend libero tristique et.
+molestie eu.
+
+<div class="note">
+  <div class="row label">1<span class="vertical-rule"></span></div>
+  <div class="row text">
+    This is a footnote. Lorem ipsume dolor sit amet.<br>
+    This is a second line.<br>
+    This is a third line.
+  </div><!-- /.row -->
+</div><!-- /.note -->
+
+Morbi mattis molestie augue, non eleifend libero tristique et.
 Quisque nec est at urna volutpat imperdiet eu vel mi. Morbi nec facilisis
 dolor. Vivamus semper turpis eu venenatis aliquam. Aliquam vel libero quis
 lectus fringilla varius. Integer commodo faucibus nisl varius accumsan. Nulla
