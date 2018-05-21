@@ -290,9 +290,16 @@ a:hover {
   .header {
     background-color: #cfcfcf;
     padding: 1em;
+    code {
+      color: $blue;
+    }
   }
   .code {
+    font-size: 1em;
     padding: 1em;
+    pre {
+      font-size: inherit;
+    }
     code {
       color: $black;
     }
