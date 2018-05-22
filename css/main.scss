@@ -122,6 +122,37 @@ a:hover {
   transform: translateY(0px);
 }
 
+.backward-effect i,
+.forward-effect i {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+
+.backward-effect:hover,
+.forward-effect:hover {
+  color: $gold;
+}
+
+.backward-effect:hover i,
+.backward-effect:focus i,
+.backward-effect:active i {
+  -webkit-transform: translateX(-8px);
+  transform: translateX(-8px);
+}
+
+.forward-effect:hover i,
+.forward-effect:focus i,
+.forward-effect:active i {
+  -webkit-transform: translateX(8px);
+  transform: translateX(8px);
+}
+
 /*===========================================================================*/
 /* about                                                                     */
 /*===========================================================================*/
@@ -175,6 +206,14 @@ a:hover {
     h3 {
       letter-spacing: 15px;
       transform: translate(0, -105%);
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .splashspace {
+    .splash-text {
+      font-size: 0.5em;
     }
   }
 }
@@ -271,6 +310,16 @@ a:hover {
   background: $white;
   color: $black;
   padding: 5em 2.5em;
+  .pagination {
+    font-size: 1.15em;
+    margin-top: 2.5em;
+  }
+  .divider {
+    border: 2px solid lighten($black, 25%);
+    margin-top: 7em;
+    margin-bottom: 7em;
+    width: 50%;
+  }
 }
 
 .caption-img {
@@ -347,12 +396,14 @@ a:hover {
 
 .postblurb {
   padding: 0 1em;
+  p {
+    margin-bottom: 0;
+  }
   .title {
     font-size: 1.5em;
   }
   .date {
     display: none;
-    margin-bottom: none;
   }
   .excerpt {
     font-size: 0.85em;

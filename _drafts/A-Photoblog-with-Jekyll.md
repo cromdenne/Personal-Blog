@@ -5,6 +5,7 @@ hero: https://c1.staticflickr.com/1/909/27324202137_9dd276b960_b.jpg
 heroAlt: soccer ball at sunset
 author: Cory Romdenne
 excerpt_separator: <!-- end_excerpt -->
+comments: true
 ---
 
 *I wanted a platform to share things.* Not a traditional social media platform —
@@ -26,8 +27,7 @@ document useful coding tricks.
 I discovered Jekyll, and the rest fell into place.
 
 What follows is a broad overview of the photography features I created on this 
-blog using [Jekyll](https://jekyllrb.com/){: .underline-effect}{:target="blank"}, [GitHub
-Pages](https://pages.github.com/){: .underline-effect}{:target="blank"},
+blog using [Jekyll](https://jekyllrb.com/){: .underline-effect}{:target="blank"},
 [Bootstrap](http://getbootstrap.com/){: .underline-effect}{:target="blank"} and 
 [Flickr](http://www.flickr.com/){: .underline-effect}{:target="blank"}. I 
 wanted to document this process for myself, and if you also find it useful 
@@ -37,11 +37,10 @@ that's great!
 <hr>
 <br>
 ### Jekyll Collections
-Let's assume we already have a functional Jekyll blog, and we're pushing to a
-GitHub repo. If not, [pause to catch
-up](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/){:.underline-effect}{:target="blank"}.  
+Let's assume we already have a functional Jekyll blog. If not, [pause to catch
+up](https://jekyllrb.com/docs/quickstart/){:.underline-effect}{:target="blank"}.  
 
-Let's start by creating a new `_photos` collection at the root of our jekyll
+We'll start by creating a new `_photos` collection at the root of our jekyll
 site.
 
 <div class="code-block">
@@ -82,8 +81,8 @@ service could be used because we'll just be linking back to the photos from
 each of our markdown metadata files.
 
 Let's go ahead and add a few photos to our collection so that we can work with
-them when styling our masonry layout. It's best to keep our photos organized,
-so let's choose a naming convention and stick with it.
+them when styling our masonry layout. This is what our photos will look like in
+markdown format.
 
 <div class="code-block">
   <div class="header">
@@ -123,7 +122,7 @@ probably enough for us to get started.
 
 <div class="code-block">
   <div class="header">
-Add a few more photos toour collection<br>
+Add a few more photos to our collection<br>
 <code>Mac terminal prompt</code>
   </div><!-- /.header -->
   <div class="code"><code>
@@ -143,8 +142,8 @@ we're ready to move on and create our gallery page.
 <hr>
 <br>
 ### Masonry with Bootstrap
-Bootstrap 4.0 has a great built-in feature that makes it easy to create a
-masonry layout — [card
+Bootstrap 4.0 has a great built-in feature that's perfect for a masonry layout: 
+[card
 columns](https://getbootstrap.com/docs/4.0/components/card/#card-columns){:
 .underline-effect}{:target="blank"}. With card columns we can also include
 captions or other text with our images, allowing for a lot of flexibility.
@@ -153,7 +152,10 @@ If we don't have Bootstrap integrated with our project yet, [let's do that
 now](https://getbootstrap.com/docs/4.0/getting-started/introduction/){:
 .underline-effect}{:target="blank"}.
 
-Next, let's create a gallery page and add the basic card column components.
+Next, let's create a gallery page and add the basic card column components, as
+well as a loop that places all of our photos. (I use my default layout here,
+but if we already have another layout set up for our gallery we can go ahead
+and use that.)
 
 <div class="code-block">
   <div class="header">
@@ -169,11 +171,44 @@ Create a gallery page and add card columns<br>
   <pre>
 &lt;div class="container-fluid"&gt;
   &lt;div class="card-columns"&gt;
-    &lt;div class="card"&gt;
-      &lt;img class="card-img" src="/images/image_url.jpg" alt="alt text"&gt;
-    &lt;/div&gt;<span class="comment">&lt;!-- /.card --&gt;</span>
+    &#123;% for photo in site.photos %&#125;
+      &lt;div class="card"&gt;
+        &lt;img class="card-img"
+             src="&#123;&#123; photo.image_path &#125;&#125;"
+             alt="&#123;&#123; photo.title &#125;&#125;"&gt;
+      &lt;/div&gt;<span class="comment">&lt;!-- /.card --&gt;</span>
+    &#123;% endfor %&#125;
   &lt;/div&gt;<span class="comment">&lt;!-- /.card-columns --&gt;</span>
 &lt;/div&gt;<span class="comment">&lt;!-- /.container-fluid --&gt;</span>
-  </pre>
+</pre>
   </code></div><!-- /.code -->
 </div><!-- /.code-block -->
+
+As the code shows, we use a bit of
+[Liquid](https://jekyllrb.com/docs/templates/){:
+.underline-effect}{:target="blank"} to iterate over our photos collection and
+create a card that pulls metadata from each photo markdown file. This is where
+we can get creative with our EXIF data or any other metadata/content that
+we've included in the markdown files.
+
+At this point we should have a gallery with a fairly basic masonry layout. 
+After adding a few styles my gallery page looks like this:
+
+<div class="caption-img">
+  <img class="img-fluid" src="/images/gallery.png" alt="screenshot of gallery">
+  <div class="caption">
+    <p>I added a hover effect to display more metadata, and a modal (not shown)
+    to reveal all EXIF data in a larger view</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+From here we can do a bit of styling to customize the photos, add hover 
+effects, and even add modals or a lightbox to feature hi-res views. The best 
+part is that everything is flexible with Jekyll — we can create our gallery and 
+blog however we want to, and use git and GitHub Pages to easily manage and host 
+it.
+
+That's as far as we'll go today. In just a few minutes we were able to set up a
+photos collection, represent our Flickr photos with markdown files, create a
+gallery page and iterate over our collection to display all photos in a masonry
+layout. Pretty slick!
