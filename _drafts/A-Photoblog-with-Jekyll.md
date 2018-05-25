@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Photoblog with Jekyll
+nav: posts
 hero: https://c1.staticflickr.com/1/909/27324202137_9dd276b960_b.jpg
 heroAlt: soccer ball at sunset
 author: Cory Romdenne

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The City by the Bay
+nav: posts
 hero: https://images.unsplash.com/photo-1495755021184-210b522ccb23?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4f935e3e49567f6f26f345895d6343ed&auto=format&fit=crop&w=1050&q=80
 heroAlt: San Francisco skyline sunset
 author: Cory Romdenne

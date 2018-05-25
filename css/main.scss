@@ -47,9 +47,6 @@ p {
   padding-right: 10px;
 }
 
-/*===========================================================================*/
-/* effects                                                                   */
-/*===========================================================================*/
 a, a:hover {
   transition: 0.3s;
 }
@@ -59,6 +56,9 @@ a:hover {
   text-decoration: none;
 }
 
+/*===========================================================================*/
+/* hover effect - slide down                                                 */
+/*===========================================================================*/
 .slide-effect a {
   overflow: hidden;
 }
@@ -74,7 +74,6 @@ a:hover {
 .slide-effect a span::before {
   color: $gold;
   content: attr(data-hover);
-  font-weight: 700;
   position: absolute;
   -webkit-transform: translate3d(0,0,0);
   -moz-transform: translate3d(0,0,0);
@@ -89,6 +88,86 @@ a:hover {
   transform: translateY(200%);
 }
 
+/*===========================================================================*/
+/* hover effect - vertical wobble                                            */
+/*===========================================================================*/
+@-webkit-keyframes wobble-effect {
+  16.65% {
+    -webkit-transform: translateY(8px);
+    transform: translateY(8px);
+  }
+  33.3% {
+    -webkit-transform: translateY(-6px);
+    transform: translateY(-6px);
+  }
+  49.95% {
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);
+  }
+  66.6% {
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px);
+  }
+  83.25% {
+    -webkit-transform: translateY(1px);
+    transform: translateY(1px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+@keyframes wobble-effect {
+  16.65% {
+    -webkit-transform: translateY(8px);
+    transform: translateY(8px);
+  }
+  33.3% {
+    -webkit-transform: translateY(-6px);
+    transform: translateY(-6px);
+  }
+  49.95% {
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);
+  }
+  66.6% {
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px);
+  }
+  83.25% {
+    -webkit-transform: translateY(1px);
+    transform: translateY(1px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+.wobble-effect {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+.wobble-effect:hover,
+.wobble-effect:focus,
+.wobble-effect:active {
+  -webkit-animation-name: wobble-effect;
+  animation-name: wobble-effect;
+  -webkit-animation-duration: 0.75s;
+  animation-duration: 0.75s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+}
+
+/*===========================================================================*/
+/* hover effect - underline                                                  */
+/*===========================================================================*/
 .underline-effect {
   position: relative;
   &:hover {
@@ -122,6 +201,9 @@ a:hover {
   transform: translateY(0px);
 }
 
+/*===========================================================================*/
+/* hover effect - horizontal slide                                           */
+/*===========================================================================*/
 .backward-effect i,
 .forward-effect i {
   -webkit-transform: translateZ(0);
