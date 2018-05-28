@@ -2,7 +2,7 @@
 layout: default
 title: Cory Explores
 nav: gallery
-splash: https://images.unsplash.com/photo-1468476396571-4d6f2a427ee7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ef2d2a1d0b76995c54c14d88320fae23&auto=format&fit=crop&w=1444&q=80
+splash: https://farm1.staticflickr.com/889/28515787458_ce80b54394_k.jpg
 splashAlt: Port of San Francisco at night
 splashTitleLarge: Gallery
 ---
@@ -10,17 +10,18 @@ splashTitleLarge: Gallery
 <div class="container-fluid content">
   <div class="container gallery">
     <div class="card-columns">
-      {% for photo in site.photos %}
+      {% assign sorted = (site.photos | sort: 'date') | reverse %}
+      {% for photo in sorted %}
         <a data-toggle="modal" data-target="#{{ photo.path }}">
           <div class="card">
             <img class="card-img"
-                 src="{{ photo.image_path }}"
+                 src="{{ photo.img_thumb }}"
                  alt="{{ photo.title }}">
             <div class="card-img-overlay">
               <h5>{{ photo.title }}</h5>
               <p>
                 {{ photo.location }}<br>
-                {{ photo.time }}
+                {{ photo.date | date: '%B %Y' }}
               </p>
               <div class="magnifier"><i class="fas fa-search-plus"></i></div>
             </div><!-- /.card-img-overlay -->
@@ -44,7 +45,7 @@ splashTitleLarge: Gallery
               </div><!-- /.modal-header -->
               <div class="modal-body">
                 <img class="img-fluid"
-                     src="{{ photo.image_path }}"
+                     src="{{ photo.img_path }}"
                      alt="{{ photo.title }}">
                 <div class="photo-story">
                   {{ photo.content }}
@@ -55,7 +56,7 @@ splashTitleLarge: Gallery
                   <div class="row">
                     <div class="col-4">
                       <small>Taken</small>
-                      <p>{{ photo.time }}</p>
+                      <p>{{ photo.date | date: '%B %Y' }}</p>
                     </div><!-- /.col-4 -->
                     <div class="col-4">
                       <small>Camera</small>
