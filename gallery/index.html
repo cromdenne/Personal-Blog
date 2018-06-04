@@ -2,7 +2,7 @@
 layout: default
 title: Cory Explores
 nav: gallery
-splash: https://farm1.staticflickr.com/889/28515787458_ce80b54394_k.jpg
+splash: https://farm1.staticflickr.com/889/28515787458_058e99ad71_h.jpg
 splashAlt: Port of San Francisco at night
 splashTitleLarge: Gallery
 ---
@@ -12,7 +12,7 @@ splashTitleLarge: Gallery
     <div class="card-columns">
       {% assign sorted = (site.photos | sort: 'date') | reverse %}
       {% for photo in sorted %}
-        <a data-toggle="modal" data-target="#{{ photo.path }}">
+        <btn data-toggle="modal" data-target="#{{ photo.path }}">
           <div class="card">
             <img class="card-img"
                  src="{{ photo.img_thumb }}"
@@ -26,7 +26,7 @@ splashTitleLarge: Gallery
               <div class="magnifier"><i class="fas fa-search-plus"></i></div>
             </div><!-- /.card-img-overlay -->
           </div><!-- /.card -->
-        </a>
+        </btn>
         <div class="modal fade" id="{{ photo.path }}" tabindex="-1"
              role="dialog" aria-labelledby="{{ photo.path }}"
              aria-hidden="true">
