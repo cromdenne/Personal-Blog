@@ -581,7 +581,7 @@ a:hover {
 }
 
 .card:hover .card-img-overlay {
-  cursor: zoom-in;
+  cursor: pointer;
   opacity: 0.75;
   transition: 0.4s ease;
 }
