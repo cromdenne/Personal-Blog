@@ -10,7 +10,7 @@ splashTitleLarge: Gallery
 <div class="container-fluid content">
   <div class="container gallery">
     <div class="card-columns">
-      {% assign sorted = (site.photos | sort: 'date') | reverse %}
+      {% assign sorted = site.photos | sort: 'date' | reverse %}
       {% for photo in sorted %}
         <btn data-toggle="modal" data-target="#{{ photo.path }}">
           <div class="card">

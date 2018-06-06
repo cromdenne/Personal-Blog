@@ -47,7 +47,10 @@
               </a>
             </li>
             <li class="nav-item wobble-effect">
-              <a class="nav-link" href="#">Search</a>
+              <a class="nav-link" data-toggle="collapse" href="#search"
+                 role="button" aria-expanded="false" aria-controls="#search">
+                Search
+              </a>
             </li>
           </ul>
         </div><!-- /.collapse -->
@@ -69,6 +72,23 @@
               about sharing the beautiful game with young people in my
               community.
             </p>
+          </div><!-- /.col-6 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </div><!-- /.collapse -->
+
+    <div class="collapse" id="search">
+      <div class="container">
+        <div class="row justify-content-center text-center">
+          <div class="col-md-7">
+            <h1>Search</h1>
+            <form action="get" id="site_search">
+              <input type="text" id="search_box">
+              <input type="submit" value="Go!">
+            </form>
+            <br>
+            <br>
+            <ul id="search_results"></ul>
           </div><!-- /.col-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
