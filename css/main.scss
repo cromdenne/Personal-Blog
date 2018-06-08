@@ -35,6 +35,10 @@ p {
 /*===========================================================================*/
 /* bootstrap overrides                                                       */
 /*===========================================================================*/
+.nav-link {
+  cursor: pointer;
+}
+
 .nav-item.active .nav-link {
   color: $gold !important;
 }
@@ -242,6 +246,59 @@ a:hover {
   padding: 3em 1em;
   h1 {
     color: $gold;
+  }
+}
+
+/*===========================================================================*/
+/* search                                                                    */
+/*===========================================================================*/
+#search {
+  .close {
+    color: $gold;
+    font-size: 3em;
+  }
+  .modal-fullscreen {
+    left: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    .modal-content {
+      border-radius: 0;
+      height: 100vh;
+      padding: 1em 4em;
+      width: 100vw;
+    }
+    .modal-header {
+      border: none;
+    }
+    .modal-body {
+      margin-top: 3em;
+    }
+  }
+  #search_box {
+    border: none;
+    border-bottom: 1px solid lighten($black, 50%);
+    border-radius: 0;
+    &:focus {
+      box-shadow: none;
+    }
+  }
+  .input-group-append {
+    button {
+      border: none;
+      transition: all 0.3s;
+      &:hover {
+        background-color: darken($gold, 10%);
+        cursor: pointer;
+        transition: all 0.3s;
+      }
+      &:active, &:focus {
+        outline: 0;
+      }
+    }
+  }
+  #search_results {
+    margin-top: 2em;
   }
 }
 
