@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
   var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
-  let active = false;
+//  let active = false;
 
   if ("IntersectionObserver" in window) {
     let lazyImageObserver = new IntersectionObserver(function(entries,
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
       lazyImageObserver.observe(lazyImage);
     });
   } else {
-    // fall back to a more compatible method
+    /* fall back to a more compatible method
     const lazyLoad = function() {
       if (active === false) {
         active = true;
@@ -50,5 +50,6 @@ document.addEventListener("DOMContentLoaded", function() {
     document.addEventListener("scroll", lazyLoad);
     window.addEventListener("resize", lazyLoad);
     window.addEventListener("orientationchange", lazyLoad);
+    */
   }
 });
