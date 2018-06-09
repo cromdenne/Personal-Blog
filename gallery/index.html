@@ -14,8 +14,9 @@ splashTitleLarge: Gallery
       {% for photo in sorted %}
         <btn data-toggle="modal" data-target="#{{ photo.path }}">
           <div class="card">
-            <img class="card-img"
-                 src="{{ photo.img_thumb }}"
+            <img class="card-img lazy"
+                 src="/images/placeholder.png"
+                 data-src="{{ photo.img_thumb }}"
                  alt="{{ photo.title }}">
             <div class="card-img-overlay">
               <h5>{{ photo.title }}</h5>
@@ -44,8 +45,9 @@ splashTitleLarge: Gallery
                 </button>
               </div><!-- /.modal-header -->
               <div class="modal-body">
-                <img class="img-fluid"
-                     src="{{ photo.img_path }}"
+                <img class="img-fluid lazy mx-auto d-block"
+                     src="/images/loading.gif"
+                     data-src="{{ photo.img_path }}"
                      alt="{{ photo.title }}">
                 <div class="photo-story">
                   {{ photo.content }}
