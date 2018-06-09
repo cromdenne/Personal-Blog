@@ -43,6 +43,11 @@ p {
   color: $gold !important;
 }
 
+.link-unstyled:active,
+.link-unstyled:focus {
+  outline: none;
+}
+
 .btn-unstyled {
   background-color: none;
   border: none;
@@ -619,6 +624,7 @@ a:hover {
   }
   .card-img-overlay {
     background-color: rgba($black, 0.75);
+    color: $white;
     opacity: 0;
     transition: 0.4s ease;
     p {

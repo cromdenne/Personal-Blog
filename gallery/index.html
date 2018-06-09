@@ -12,7 +12,8 @@ splashTitleLarge: Gallery
     <div class="card-columns">
       {% assign sorted = site.photos | sort: 'date' | reverse %}
       {% for photo in sorted %}
-        <btn data-toggle="modal" data-target="#{{ photo.path }}">
+        <a class="link-unstyled" data-toggle="modal" 
+           data-target="#{{ photo.path }}" href="#">
           <div class="card">
             <img class="card-img lazy"
                  src="/images/placeholder.png"
@@ -27,7 +28,7 @@ splashTitleLarge: Gallery
               <div class="magnifier"><i class="fas fa-search-plus"></i></div>
             </div><!-- /.card-img-overlay -->
           </div><!-- /.card -->
-        </btn>
+        </a>
         <div class="modal fade" id="{{ photo.path }}" tabindex="-1"
              role="dialog" aria-labelledby="{{ photo.path }}"
              aria-hidden="true">
