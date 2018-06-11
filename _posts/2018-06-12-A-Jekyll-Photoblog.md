@@ -1,31 +1,18 @@
 ---
-layout: post
-title: A Photoblog with Jekyll
-nav: posts
-hero: https://c1.staticflickr.com/1/909/27324202137_9dd276b960_b.jpg
-heroAlt: soccer ball at sunset
+title: A Jekyll Photoblog
+hero: https://farm2.staticflickr.com/1756/28515848928_f1befaa27b_b.jpg
+heroAlt: Redwood tree small branch
 author: Cory Romdenne
-excerpt_separator: <!-- end_excerpt -->
 comments: true
 ---
 
-*I wanted a platform to share things.* Not a traditional social media platform —
-I'm a relatively introverted guy and I've always felt strange posting on 
-Facebook or Twitter. No, I wanted a platform where I could share on my own
-terms.
-<!-- end_excerpt -->
+Even amateurs like sharing photos.
 
-*I wanted to build something that was my own.* Although I'm quite the
-amateur, I enjoy designing and coding things. I find inspiration in the
-projects that others bring to life.
-
-Those were the two criteria I had when deciding where I'd start this journey. I
-had recently completed a project using Vim and GitHub, and now I wanted to 
-create a personal blog as an outlet for the random stuff I do. In particular, I
-wanted to be able to share photos, write about travel and experiences, and 
-document useful coding tricks.
-
-I discovered Jekyll, and the rest fell into place.
+I'm no expert, but I do enjoy taking photos when my wife and I travel. I 
+wanted a place to document my journey as an improving photographer, but I also 
+wanted flexibility.<!-- end_excerpt --> I thought this might be a great 
+opportunity to learn a new skill, so I dove into the details of using Jekyll 
+as a photo blog.
 
 What follows is a broad overview of the photography features I created on this 
 blog using [Jekyll](https://jekyllrb.com/){: .underline-effect}{:target="blank"},
@@ -41,7 +28,11 @@ that's great!
 Let's assume we already have a functional Jekyll blog. If not, [pause to catch
 up](https://jekyllrb.com/docs/quickstart/){:.underline-effect}{:target="blank"}.  
 
-We'll start by creating a new `_photos` collection at the root of our jekyll
+We're going to use a collection to store our photos. [According to
+Jekyll](https://jekyllrb.com/docs/collections/){: .underline-effect}{:target="blank"}, "Collections allow you to define a new type of document that behave like 
+Pages or Posts do normally, but also have their own unique properties and 
+namespace." This makes them a powerful tool and perfect for organizing photos. 
+We'll start by creating a new `_photos` collection at the root of our jekyll 
 site.
 
 <div class="code-block">
@@ -104,14 +95,15 @@ Create a new photo markdown file for our collection<br>
   iso: 400<br>
   ---<br>
   <br>
-  Lorem ipsum dolor sit amet.
+  This photo has an interesting story!
   </code></div><!-- /.code -->
 </div><!-- /.code-block -->
 
 Many of these fields are custom and not required. We do need an `image_path`
-(or similarly-named) field, but beyond that we can get creative — the metadata
-we use here depends on what we'd like to display in our gallery. I include 
-photo EXIF data for my blog, but we can use as many or as few fields as we want.
+(or similarly-named) field that links back to the photo on our hosting service, 
+but beyond that we can get creative — the metadata we use here depends on what 
+we'd like to display in our gallery. I include photo EXIF data for my blog, but 
+we can use as many or as few fields as we want.
 
 Outside of the file's frontmatter we can also add content. We could use this
 area for photo captions or stories.

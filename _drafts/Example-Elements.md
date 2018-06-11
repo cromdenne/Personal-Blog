@@ -1,17 +1,14 @@
 ---
-layout: post
-title: The City by the Bay
-nav: posts
+title: Example Elements
 hero: https://images.unsplash.com/photo-1495755021184-210b522ccb23?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4f935e3e49567f6f26f345895d6343ed&auto=format&fit=crop&w=1050&q=80
 heroAlt: San Francisco skyline sunset
 author: Cory Romdenne
-excerpt_separator: <!--end_excerpt-->
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget massa
 ac felis tristique pharetra in nec odio. Nam suscipit, est vel pretium
 fringilla, ligula nulla pretium enim, ut auctor metus purus ultrices
-eros.<!--end_excerpt-->
+eros.<!-- end_excerpt -->
 Pellentesque cursus, libero vel scelerisque tincidunt, nunc orci lacinia leo,
 nec pharetra risus neque vitae ligula. Mauris eu velit nulla. Maecenas gravida
 bibendum rutrum. Maecenas vulputate consequat dolor, et vehicula diam tincidunt
