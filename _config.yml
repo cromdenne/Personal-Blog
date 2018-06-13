@@ -12,3 +12,4 @@ defaults:
       excerpt_separator: <!-- end_excerpt -->
 
 permalink: pretty
+future: false
