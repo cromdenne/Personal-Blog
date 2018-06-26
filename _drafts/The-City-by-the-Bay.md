@@ -261,3 +261,128 @@ with some rest at the hotel, thankful we'd planned to sleep in on Friday.
 
 <br>
 #### Day 3
+Friday (the 13th!) was our Alcatraz day, but since our excursion wasn't until
+5:00PM we had plenty of time to explore more of Fisherman's Wharf at our
+leisure. We began our day at Pier 45 with a tour of the [S.S. Jeremiah
+O'Brien](https://www.ssjeremiahobrien.org/){: .underline-effect}{:
+targe="blank"}.
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://farm2.staticflickr.com/1750/41665784514_f4011fab04_b.jpg"
+       alt="view to door looking to Alcatraz on S.S. Jeremiah O'Brien">
+  <div class="caption">
+    <p>Exploring the inside of the ship gave us an appreciation for the life of
+    American sailors during World War II.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+The self-guided tour through the "living museum" provided an interesting walk 
+through the nautical history of World War II. There were a couple large
+dioramas that painted a vivid picture of the Normandy beaches during the D-Day
+Invasion, which was the most notable voyage in the ship's history.
+
+Following our tour we headed to Anchorage Square for our first experience at 
+In-N-Out Burger. There was a pretty big lunch rush, but we eventually headed 
+out to the courtyard with our food. The burger was good, but certainly didn't 
+match up to a Culver's ButterBurger!
+
+After our lunch we stopped back at the hotel to change and prepare for the main
+attraction of our day — Alcatraz. We eventually made our way out to Pier 39 for
+more exploring and an early dinner/snack at the The Crêpe Café before
+journeying farther down the Embarcadero to Pier 33 and the dock for our ferry.
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://farm2.staticflickr.com/1755/28515857358_c9ff668831_b.jpg"
+       alt="view of Alcatraz from Pier 39">
+  <div class="caption">
+    <p>So close to the city, yet so mysterious. Some details of Alcatraz are
+    discernable from the piers of Fisherman's Wharf, but it becomes more
+    impressive the closer you get.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+We boarded the ferry at 5:00PM and after a short trip to the island our tour
+began.
+
+Since Taylor was so excited about this part of the trip we had purchased 
+tickets for an additional "Behind the Scenes" tour of the island, and one of 
+the first parts of the tour was to venture through the guardhouse, past the 
+power house and through the tunnels to the northwest edge of the island. Our 
+tour guide told us about the Model Industries Building and escape attempts as 
+we explored outdoor areas under the San Francisco sunset.
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://farm2.staticflickr.com/1760/42340150952_a033336f25_b.jpg"
+       alt="Alcatraz underground holding area">
+  <div class="caption">
+    <p>The tunnels led us to this underground holding area, which was pretty
+    colorful thanks to the decades of accumulated rust.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+After exploring the lower edge of the island the guide led us uphill past the
+apartment building to the garden below the water tower. We learned how the
+island was occupied in protest for 19 months by Native Americans, which is why
+the sign at the park entrance and the water tower are painted with references
+to Indians. The tour guide also told us how the island was originally a 
+military prison before becoming famous for holding federal prisoners.
+
+From the water tower we finally made it into the main cellhouse. We were shown
+each cell block (including the famous Broadway) before making our way into the
+underground dungeon area used for solitary confinement. It was obvious why the
+dark, bare cells there were reserved for the worst-behaved prisoners.
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://farm2.staticflickr.com/1725/42340122622_1d03d80b7d_b.jpg"
+       alt="Broadway cell block at Alcatraz">
+  <div class="caption">
+    <p>Broadway was impressive, and it was striking just how confined the
+    prisoners were in their cells. This cellhouse is also where we saw the
+    tunnel made by prisoners during the famous 1962 escape.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+
+Our last stop behind the scenes was the the shower room. Here the park ranger
+accompanying our tour told us about the history of violence and danger in 
+prisons, even showing us examples of shivs taken from various prisoners! After
+wrapping up the "Behind the Scenes" tour here we grabbed a set of headphones 
+for the self-guided cellhouse audio tour.
+
+This interesting tour led us through the cellhouse and surrounding areas while
+we listened to former prisoners and prison officials about life at Alcatraz. We
+walked through the recreation yard and the outdoor area near the lighthouse, 
+which provided an incredible view of the San Francisco skyline at dusk. 
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://drive.google.com/uc?id=1u6DxkPt6AG3odgx5LQZGqpL-MJJtfdTC"
+       alt="view of sunset over the Golden Gate Bridge from Alcatraz rec yard">
+  <div class="caption">
+    <p>We were able to explore many of the outdoor areas during sunset, and the
+    recreation yard in particular provided some excellent views of the Golden 
+    Gate Bridge.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+After finishing the audio portion of the tour we exited the main prison 
+building through the gift shop into the dark night. As we made our way back 
+down to the ferry docks we took in the spectacular view of the illuminated Bay 
+Bridge.
+
+We finally boarded the boat and roughly an hour later at 10:30PM we were back
+at the hotel. Even though this was a lighter day we still felt we'd seen and
+explored so much, and we thoroughly enjoyed our experience at Alcatraz!
+
+<br>
+#### Day 4
+text
