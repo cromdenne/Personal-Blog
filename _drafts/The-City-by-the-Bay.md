@@ -8,11 +8,11 @@ author: Cory Romdenne
 It was the biggest, baddest Wisconsin blizzard of my lifetime... and we spent it
 in San Francisco.
 
-Don't get me wrong, we were certainly happy to trade the April snow for the
-mild weather of the Bay Area!<!-- end_excerpt --> This was going to be the
-longest and farthest trip for Taylor and I since our honeymoon in St. Lucia,
-and we had planned it out a couple months in advance with some travel hacking
-strategies (details are in my next post if you're interested).
+We were certainly happy to trade the April snow for the mild weather of the 
+Bay Area!<!-- end_excerpt --> This was going to be the longest and farthest 
+trip for Taylor and I since our honeymoon in St. Lucia, and we had planned it 
+out a couple months in advance with some travel hacking strategies (details 
+are in my next post if you're interested).
 
 The trip was excellent and we were disappointed to have to leave the beautiful
 weather, especially considering what we returned to.
@@ -32,8 +32,8 @@ to plan future trips on a similar schedule.
 After finding a shuttle from SFO to our hotel near Fisherman's Wharf
 ([SuperShuttle](https://www.supershuttle.com/){:
 .underline-effect}{:target="blank"} turned out to be the easiest option with a
-reasonable price, and we'd use them again), we had a relaxed afternoon to
-explore our surroundings. Our first destination was Pier 39.
+reasonable price, we'd consider using them again), we had a relaxed afternoon 
+to explore our surroundings. Our first destination was Pier 39.
 
 <div class="caption-img">
   <img class="img-fluid lazy"
@@ -54,7 +54,7 @@ prime napping real estate and playfully fighting each other.
 After we'd had enough of the sea lions' shenanigans for one afternoon we
 explored a bit more and eventually made our way to Ghirardelli Square. I'm a
 sucker for good ice cream, so this wasn't our last trip to the hallowed
-chocolate company. We came home with a lot of chocolate after we discovered
+chocolate company. We came home with a lot of treats after we discovered
 later in the week that we could get a ton of free samples by walking through 
 each of the four shop areas within 10 minutes...
 
@@ -68,10 +68,11 @@ Our alarms were set for 6:00AM, but the time difference helped this late
 riser wake up rested and ready on Thursday.
 
 The day began with an early trip to the nearest Enterprise for a rental car. 
-This was our first experience renting a car, and we had reserved an "Economy"
-option via the Enterprise app the night before. Checking in and getting the car
-was a quick process, and we even got a free upgrade because it was just easier
-for the representative to get another option out of the parking area!
+This was our first experience renting a vehicle, and we had reserved an 
+"Economy" option via the Enterprise app the night before. Checking in and 
+getting the car was a quick process, and we even got a free upgrade because it 
+was just easier for the representative to get another option out of the 
+parking area!
 
 After about 20 minutes at Enterprise we were on the road and making our way 
 across the Golden Gate Bridge to Sausalito. Driving over the bridge for the
@@ -117,9 +118,6 @@ available at the visitor center, and this made parking fairly simple. Within
 minutes we were parked and had made our way to the visitor center to check out 
 maps and souvenirs. 
 
-After a few minutes of exploring the visitor center and entrance area we made
-our way into the park.
-
 Our decision to visit the forest in the morning on a weekday proved to be a
 good one. We had read that the area can feel more like an amusement park than a
 natural wonder at peak times, but on this Thursday morning we only saw about 50
@@ -127,9 +125,9 @@ other guests until returning to the park entrance in the afternoon.
 
 The first thing that struck me was the sheer size and number of the Redwoods.
 This is perhaps to be expected, but the next thing that caught my eye was the
-way the light played off of the creek and growth between the trees. There was
-no fog on our visit, but the day was beautiful and the sunlight patches really
-gave depth and vibrance to the forest.
+way the light played off of the creek and the growth between the trees. There 
+was no fog on our visit, but the day was beautiful and the sunlight patches 
+really gave depth and vibrance to the forest.
 
 <div class="caption-img">
   <img class="img-fluid lazy"
@@ -162,10 +160,10 @@ offered some great memories.
 
 The hike began with a steep ascent and a few narrow log bridges. We were a bit 
 apprehensive along the way, particularly when the path showed signs of a recent 
-mudslide, but we persevered and took water breaks when we needed to. We found
-an awesome Redwood with a picture-perfect split, as well as an impressive
-fallen giant, before finally reaching the peak of our route over 1,000 feet 
-higher than where we set out.
+mudslide, but we persevered and frequent took water breaks. We found an 
+awesome Redwood with a picture-perfect split, as well as an impressive fallen 
+giant, before finally reaching the peak of our route over 1,000 feet higher 
+than where we set out.
 
 <div class="caption-img">
   <img class="img-fluid lazy"
@@ -265,7 +263,7 @@ Friday (the 13th!) was our Alcatraz day, but since our excursion wasn't until
 5:00PM we had plenty of time to explore more of Fisherman's Wharf at our
 leisure. We began our day at Pier 45 with a tour of the [S.S. Jeremiah
 O'Brien](https://www.ssjeremiahobrien.org/){: .underline-effect}{:
-targe="blank"}.
+target="blank"}.
 
 <div class="caption-img">
   <img class="img-fluid lazy"
@@ -283,7 +281,7 @@ through the nautical history of World War II. There were a couple large
 dioramas that painted a vivid picture of the Normandy beaches during the D-Day
 Invasion, which was the most notable voyage in the ship's history.
 
-Following our tour we headed to Anchorage Square for our first experience at 
+Following our tour we ventured to Anchorage Square for our first experience at 
 In-N-Out Burger. There was a pretty big lunch rush, but we eventually headed 
 out to the courtyard with our food. The burger was good, but certainly didn't 
 match up to a Culver's ButterBurger!
@@ -305,8 +303,8 @@ journeying farther down the Embarcadero to Pier 33 and the dock for our ferry.
   </div><!-- /.caption -->
 </div><!-- /.caption-img -->
 
-We boarded the ferry at 5:00PM and after a short trip to the island our tour
-began.
+We boarded the ferry at 5:00PM and after a brief scenic trip to the island our 
+tour began.
 
 Since Taylor was so excited about this part of the trip we had purchased 
 tickets for an additional "Behind the Scenes" tour of the island, and one of 
@@ -385,4 +383,176 @@ explored so much, and we thoroughly enjoyed our experience at Alcatraz!
 
 <br>
 #### Day 4
-text
+Because the night before was a late one with our return from Alcatraz, we had a
+relatively lazy morning on Saturday. After getting brunch and researching the
+public transit system, we decided to catch an Uber out to Golden Gate Park for
+a leisurely stroll through the many interesting areas within.
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://drive.google.com/uc?id=1lCxT88wYei4DcIcmVNyjVCr9NZotQ0bL"
+       alt="San Francisco cable car">
+  <div class="caption">
+    <p>We considered public transit and checked out one of the cable car
+    turntables, but we decided Uber would just be easier to get us out to
+    Golden Gate Park from our hotel near Fisherman's Wharf.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+Our walk began at the Conservatory of Flowers. The predictably beautiful
+weather had drawn many people out for a nice picnic, and most of the grassy
+areas of the park were strewn with groups of family and friends enjoying their
+weekend.
+
+From the Conservatory we walked to the California Academy of Sciences and
+rested in the large landscaped concourse between the Academy and the de Young
+Museum to spend time admiring the architecture, people and music in the area.
+After our short break we checked out Huntington Falls at Strawberry Hill as we
+made our way through the park to Spreckels Lake.
+
+When we arrived at the lake we were interested to find a group of men testing 
+what appeared to be hand-crafted model sailboats. We watched them push their 
+ships toward the middle of the lake and then run along the shore following the 
+graceful and gradual voyages of their crafts. Another group of young families
+were happily feeding and chasing the many birds that had gathered at the large
+platform of the shore. We spent around a half hour soaking in the sun and the
+scenery before moving on.
+
+Our next stop was the Legion of Honor near the Lands End Trail. The trek was a
+little over a mile with a 240-foot climb, but the views were great and we were
+able to check out the memorial statues and the fountain at the terrace. We'd
+walked around four miles already with a bit more planned in the Presidio, so 
+we decided against following the Lands End Trail to the beach and instead 
+caught an Uber out to Crissy Field. 
+
+We were dropped off near Fort Point Beer Company, so we crossed the grassy
+field and headed out to the beach for some photos of the Golden Gate Bridge. We
+took a slow walk along the San Francisco Bay Trail, past the marsh toward the
+east picnic area. Our final attraction of the day was the nearby Palace of Fine
+Arts.
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://farm1.staticflickr.com/886/42340155322_71db34471b_b.jpg"
+       alt="Classical pillars at the Palace of Fine Arts">
+  <div class="caption">
+    <p>The architecture here was unique and impressive, a bit of a novelty
+    against the style of the city.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+We took a short walk through the dome and the surrounding grounds, admiring the
+fountain and the lake. The evening was creeping in, and this was Prom season,
+so we met large groups of local teenagers dressed up for dinner and photos. 
+Staff appeared to be preparing the theatre for a party as well.
+
+Our sightseeing finished for the day, we walked through the city and past Fort
+Mason back to Fisherman's Wharf, stopping at Ghirardelli Square along the way
+for snacks — we couldn't miss an opportunity for that ice cream when we'd be
+passing by anyway!
+
+We wrapped up the day by visiting the sea lions again at Pier 39 before
+returning to the hotel. We'd put on quite a bit of mileage — roughly 10 miles
+of walking with about 600 feet of elevation changes!
+
+<br>
+#### Day 5
+After several days of adventures we were ready for a low-key day of
+relaxation. We slept in and then did a bit more light exploring near our hotel.
+
+First we walked to Lombard Street to see the world-famous winding road and
+landscaping. This was definitely a hot tourist location, as there were dozens
+of others walking and driving by, taking photos and climbing the pathways on
+either side of the road.
+
+Next we learned about a couple of old ships at the Hyde Street Pier, and then 
+spent some time walking through Musée Mécanique, the unique and interesting 
+home of all kinds of antique coin-operated machines and games.
+
+We avoided the rain the rest of the day at the hotel and relaxed while planning
+our next and final day in the Bay Area.
+
+<br>
+#### Day 6
+Our final day was going to be a long one — our red-eye flight wasn't scheduled
+to depart from SFO until 12:30AM on Tuesday, and Taylor had booked a tour of
+the Winchester Mystery House in San Jose. After seeing so much of Fisherman's
+Wharf and the surrounding area, we planned to spend this day taking a meandering
+trip around the bay on our way to the airport.
+
+We wanted to visit Battery Spencer on our way out of the city, so we woke up 
+early and got out to Enterprise shortly after they opened at 8:00AM. We hoped 
+to avoid the crowds at the iconic overlook of the Golden Gate Bridge, so we
+were thrilled to pull into the parking area and see only a couple other
+vehicles. The vista over the enormous bridge and sprawling city was truly
+breathtaking.
+
+After snapping a few photos we headed back to the rental car to start our
+journey around the bay. Our first stop was for breakfast at Le Croissant, a
+small diner in San Quentin. The food was excellent and the atmosphere reminded 
+us of a small breakfast club back in Wisconsin. With our stomachs full we made
+the drive across the Richmond-San Rafael Bridge, an impressively long structure
+spanning the east and west edges of the San Francisco Bay.
+
+Now on the eastern shore of the bay for the first time, we spent about an hour
+exploring the free [Rosie the Riveter WWII Home
+Front](https://www.nps.gov/rori/index.htm){: .underline-effect}{: 
+target="blank"}. The Visitor Education Center had many interesting exhibits
+that painted a picture of life in the Bay Area during World War II,
+illustrating how migration for industrial jobs played a crucial role in the
+cultural development of the region after the war.
+
+When we were finished at this National Historical Park we hopped back in the
+car and follwed the outline of the bay all the way down to San Jose. With some
+time to kill before our tour at the Winchester Mystery House, we stopped for a
+stroll through the nearby Municipal Rose Garden.
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://farm2.staticflickr.com/1733/28515886568_1025bd39fd_b.jpg"
+       alt="Fountain at the San Jose Municipal Rose Garden">
+  <div class="caption">
+    <p>This serene park was fairly quiet on the Monday afternoon that we
+    visited.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://farm2.staticflickr.com/1730/41486687855_1342777910_b.jpg"
+       alt="One of many bright flowers at the San Jose Municipal Rose Garden">
+  <div class="caption">
+    <p>There was a brief burst of rain while we were taking in the colors and scents
+    of the garden, and the extra hydration served to highlight the vivid colors of
+    the flowers.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+As our scheduled tour time approached we made the short drive to Winchester
+Boulevard. I'm not an avid fan of haunted stories, but this was Taylor's
+second-most anticipated attraction behind Alcatraz. The tour was interesting,
+and the house itself was quite strange and mystifying. Taylor enjoyed the
+experience, so it was a nice way to close out our trip.
+
+From the Winchester House we drove up through Cupertino and Mountain View so
+that we could pass the Apple and Google campuses (as an IT nerd I just wanted a
+glimpse of these Silicon Valley giants). Our final destination was the rental
+car drop-off at SFO, and after a short AirTrain ride we were ready to go
+through security and have some dinner.
+
+We spent a couple hours reading and watching Netflix while we waited for our 
+departing red-eye. We touched down in Chicago right on time, and after a short
+delay and switching planes we were back in the air on our way home to Green
+Bay.
+
+The bitter midwest weather was an unwelcome shift after a week of lovely
+west coast sun, but the real treat was finding our car buried under heavy snow 
+when we got to the airport parking lot. It took 45 minutes to dig our way out, 
+and after a short drive home we found two more feet blanketing our entire
+driveway!
+
+
