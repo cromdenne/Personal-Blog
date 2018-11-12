@@ -12,7 +12,7 @@ We were certainly happy to trade the April snow for the mild weather of the
 Bay Area!<!-- end_excerpt --> This was going to be the longest and farthest 
 trip for Taylor and I since our honeymoon in St. Lucia, and we had planned it 
 out a couple months in advance with some travel hacking strategies (details 
-are in my next post if you're interested).
+will be in a future post).
 
 The trip was excellent and we were disappointed to have to leave the beautiful
 weather, especially considering what we returned to.
@@ -85,12 +85,12 @@ of the breathtaking view would wait until our final day.
 From the bridge we intended to go straight to Muir Woods National Monument, but
 we missed our turn onto Panoramic Highway. Since it was still early and we had
 our whole day in front of us, we decided to continue on Shoreline Highway as we
-knew it would take us closer to the ocean. Our mistake took us to the Muir
+knew it would take us closer to the ocean. Our mistake took us to the Muir 
 Beach Overlook, and by the time we got there we were very glad to have stumbled 
 upon this detour!
 
 It was around 8:15AM when we pulled into the parking lot at the small picnic
-area. We were just the second to arrive, the first being a relaxed Great Blue
+area. We were just the second to arrive, the first being a relaxed Great Blue 
 Huron near one of the park benches. We checked out the neat 3D map of the area 
 and the four historic concrete military structures before heading down the
 narrow winding path to the overlook.
@@ -145,8 +145,8 @@ really gave depth and vibrance to the forest.
        data-src="https://farm2.staticflickr.com/1721/28515833468_400542f8dd_b.jpg"
        alt="light playing tricks on Redwoods">
   <div class="caption">
-    <p>But the way the sun peeks through and highlights the brilliant colors of
-    the forest is also impressive.</p>
+    <p>But the way the sunlight peeks through and highlights the brilliant 
+    colors of the forest is also impressive.</p>
   </div><!-- /.caption -->
 </div><!-- /.caption-img -->
 
@@ -160,7 +160,7 @@ offered some great memories.
 
 The hike began with a steep ascent and a few narrow log bridges. We were a bit 
 apprehensive along the way, particularly when the path showed signs of a recent 
-mudslide, but we persevered and frequent took water breaks. We found an 
+mudslide, but we persevered and took frequent water breaks. We found an 
 awesome Redwood with a picture-perfect split, as well as an impressive fallen 
 giant, before finally reaching the peak of our route over 1,000 feet higher 
 than where we set out.
@@ -438,8 +438,8 @@ Arts.
        data-src="https://farm1.staticflickr.com/886/42340155322_71db34471b_b.jpg"
        alt="Classical pillars at the Palace of Fine Arts">
   <div class="caption">
-    <p>The architecture here was unique and impressive, a bit of a novelty
-    against the style of the city.</p>
+    <p>The architecture at the Palace of Fine Arts was unique and impressive, 
+    a bit of a novelty against the style of the city.</p>
   </div><!-- /.caption -->
 </div><!-- /.caption-img -->
 
@@ -489,6 +489,19 @@ were thrilled to pull into the parking area and see only a couple other
 vehicles. The vista over the enormous bridge and sprawling city was truly
 breathtaking.
 
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://drive.google.com/uc?id=1UFjpmd9ucQHaQUIOfHlePeATN5h-KW6A"
+       alt="Taylor and I with the Golden Gate Bridge and San Francisco in the
+       background"
+  <div class="caption">
+    <p>We had saved the most spectacular view for our final day, and we were
+    pretty happy tourists after a week of adventures.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
+
 After snapping a few photos we headed back to the rental car to start our
 journey around the bay. Our first stop was for breakfast at Le Croissant, a
 small diner in San Quentin. The food was excellent and the atmosphere reminded 
@@ -497,7 +510,7 @@ the drive across the Richmond-San Rafael Bridge, an impressively long structure
 spanning the east and west edges of the San Francisco Bay.
 
 Now on the eastern shore of the bay for the first time, we spent about an hour
-exploring the free [Rosie the Riveter WWII Home
+exploring the free [Rosie the Riveter WWII Home 
 Front](https://www.nps.gov/rori/index.htm){: .underline-effect}{: 
 target="blank"}. The Visitor Education Center had many interesting exhibits
 that painted a picture of life in the Bay Area during World War II,
@@ -505,7 +518,7 @@ illustrating how migration for industrial jobs played a crucial role in the
 cultural development of the region after the war.
 
 When we were finished at this National Historical Park we hopped back in the
-car and follwed the outline of the bay all the way down to San Jose. With some
+car and followed the outline of the bay all the way down to San Jose. With some
 time to kill before our tour at the Winchester Mystery House, we stopped for a
 stroll through the nearby Municipal Rose Garden.
 
@@ -555,4 +568,29 @@ when we got to the airport parking lot. It took 45 minutes to dig our way out,
 and after a short drive home we found two more feet blanketing our entire
 driveway!
 
+<br>
+#### Summary
+Taylor and I had been focused on some other priorities in life, so this was our
+first big vacation since our honeymoon almost three years earlier. It was also
+the first time that we'd used travel-hacking strategies. The Bay Area certainly
+did not disappoint as our first major vacation destination!
+
+The weather was outstanding, especially in contrast to the long and harsh
+Wisconsin spring. But more importantly, there were just so many things to do in
+San Francisco. The two big attractions for us were Alcatraz (Taylor's favorite
+part of the trip) and Muir Woods National Monument (my favorite), and they were
+both excellent journeys that we won't forget. We did a ton of sightseeing in
+our brief six days, but there was still so much more that we could have
+experienced, which speaks to the sheer volume of interesting culture and
+history in the area.
+
+For two people interested in history and nature, this was a fantastic trip. 
+Maybe we'll return someday!
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://farm2.staticflickr.com/1759/40581269570_ac4f7b520e_b.jpg"
+       alt="skyline of San Francisco from the bay">
+</div><!-- /.caption-img -->
 
