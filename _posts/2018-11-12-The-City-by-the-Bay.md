@@ -494,7 +494,7 @@ breathtaking.
        src="/images/placeholder.png"
        data-src="https://drive.google.com/uc?id=1UFjpmd9ucQHaQUIOfHlePeATN5h-KW6A"
        alt="Taylor and I with the Golden Gate Bridge and San Francisco in the
-       background"
+       background">
   <div class="caption">
     <p>We had saved the most spectacular view for our final day, and we were
     pretty happy tourists after a week of adventures.</p>
