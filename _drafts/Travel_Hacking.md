@@ -42,16 +42,17 @@ Your bank probably has a similar cash reward for opening a checking account.
 Retailers do this too — Barnes & Noble offers discount coupons when you sign
 up for a membership, and Target offers a discount for each transaction if you
 sign up for their REDcard program. These organizations and companies are
-looking for loyalty — when you sign up with them you’ll probably end up being
-a repeat customer and spending more money with them.
+looking for loyalty — when you sign up with them [you’ll probably end up being
+a repeat customer](https://www.forbes.com/sites/bryanpearson/2016/06/24/the-psychology-behind-fee-based-credit-cards-3-tips-for-retailers/#63fc79403cf9){:.underline-effect}{:target="blank"} and spending more money with them.
 
 Credit card companies have the same incentives — when you sign up for their
 card, you become a customer likely to generate money for them by paying
 interest and fees. These two streams of revenue are pretty significant, but
 even if you’re a careful customer who diligently avoids interest and fees,
 the credit card companies are still making money in a third way: interchange
-fees with every transaction. Don’t worry, these companies are making bread even 
-if you’re using credit for “free”.
+fees with every transaction. Don’t worry, [these companies are making
+bread](https://www.fool.com/credit-cards/2017/04/13/this-is-how-credit-card-companies-hauled-in-163-bi.aspx){:.underline-effect}{:target="blank"} even if you’re 
+using credit for “free”.
 
 So the incentives line up for the credit card companies, and they form
 partnerships with travel companies who have similar incentives. This all made
@@ -174,12 +175,13 @@ redeem our points for straight-up cash, we’d get $0.01 for each point. That
 would mean $600 for our 60,000 points — not bad for a couple months of
 minimum effort.
 
-But then I looked up the Hyatt rewards table. There were seven categories of
-Hyatts, ranging from fancy (the category one Hyatt Regency Green Bay, where
-Taylor and I had our wedding reception) to super-crazy fancy (the category
-seven Park Hyatt Sydney in Australia, a world-renowned five-star hotel). A
-category one Hyatt cost just 5,000 points for a free night, and a category
-seven cost 30,000.
+But then I looked up the [Hyatt rewards
+table](https://world.hyatt.com/content/gp/en/rewards/free-nights-upgrades.html){:.underline-effect}{:target="blank"}. There were seven categories of Hyatts, 
+ranging from fancy (the category one Hyatt Regency Green Bay, where Taylor and 
+I had our wedding reception) to super-crazy fancy (the category seven Park 
+Hyatt Sydney in Australia, a world-renowned five-star hotel). A category one 
+Hyatt cost just 5,000 points for a free night, and a category seven cost 
+30,000.
 
 Our 60,000 points had some context now, and two nights at one of the fanciest
 hotels in the world seemed intuitively more valuable than $600 cash. The math
@@ -201,13 +203,14 @@ seemed like an excellent first destination for us.
 A quick search revealed that there were five Hyatts in the Bay Area that
 would work for our trip.
 
-Hyatt House Emeryville / San Francisco Bay Area — Category 3  |  12,000
-points
-Hyatt Place Emeryville / San Francisco Bay Area — Category 3  |  12,000
-points
-Hyatt Centric Fisherman’s Wharf San Francisco — Category 4  |  15,000 points
-Hyatt Regency San Francisco — Category 5  |  20,000 points
-Grand Hyatt San Francisco — Category 5  |  20,000 points
+Hyatt House Emeryville / San Francisco Bay Area — Category 3 (12,000
+points)<br>
+Hyatt Place Emeryville / San Francisco Bay Area — Category 3 (12,000
+points)<br>
+Hyatt Centric Fisherman’s Wharf San Francisco — Category 4 (15,000
+points)<br>
+Hyatt Regency San Francisco — Category 5 (20,000 points)<br>
+Grand Hyatt San Francisco — Category 5 (20,000 points)<br>
 
 We probably weren’t going to stay in one of the super-fancy category five
 hotels for our first trip, so depending which of the others we chose we’d
@@ -239,15 +242,16 @@ point in the year, so we were able to be flexible with our trip rather than
 being confined to flying out on a Friday and returning the following weekend.
 
 After we put together a list of things we wanted to do in California, we
-settled on staying at the Hyatt Centric Fisherman’s Wharf San Francisco, a
-category three hotel that cost 15,000 points per night. I didn’t book anything 
-yet though — I wanted to have everything laid out and planned before moving any 
-points around.
+settled on staying at the [Hyatt Centric Fisherman’s Wharf San
+Francisco](https://www.hyatt.com/en-US/hotel/california/hyatt-centric-fishermans-wharf-san-francisco/sfofw){:.underline-effect}{:target="blank"}, a category three 
+hotel that cost 15,000 points per night. I didn’t book anything yet though — I 
+wanted to have everything laid out and planned before moving any points around.
 
 I searched for flights next. We preferred to fly out of our own city and
 Southwest didn’t service Green Bay, so I started by looking through flights
-with United. The United rewards chart showed that flights from the midwest to 
-the west coast would be 12,500 points per person one way, or 50,000 points 
+with United. [The United rewards
+chart](https://www.united.com/web/en-US/apps/mileageplus/awards/travel/awardTravel.aspx){:.underline-effect}{:target="blank"} showed that flights from the midwest 
+to the west coast would be 12,500 points per person one way, or 50,000 points 
 total for Taylor and I round-trip.
 
 Using United’s search features turned out to be pretty easy. You don’t need
@@ -321,9 +325,10 @@ great return for opening a credit card and putting our normal spending on it
 for a year, and the process was surprisingly simple.
 
 Without having to worry about paying for our hotel and flights, we were able to 
-take this entire trip for just $1,250. That included all of our meals, a fancy 
-tour of Alcatraz, a day hiking through the redwoods at John Muir National 
-Monument, and much more.
+take this entire trip for just $1,250. That included all of our meals, a [fancy 
+tour of
+Alcatraz](https://www.alcatrazcruises.com/tour-options/behind-the-scenes-tour/){:.underline-effect}{:target="blank"}, a day hiking through the redwoods at John 
+Muir National Monument, and much more.
 <br>
 <br>
 #### The Verdict
