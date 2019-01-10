@@ -13,7 +13,7 @@ Bay Area!<!-- end_excerpt --> This was going to be the longest and farthest
 trip for Taylor and I since our honeymoon in St. Lucia, and we had planned it 
 out a couple months in advance with some travel hacking strategies ([details 
 are in this
-post](https://blog.romdenne.com/2018/11/12/The-City-by-the-Bay/){:.underline-effect}{:target="blank"}).
+post](https://blog.romdenne.com/2019/01/10/Travel-Hacking/){:.underline-effect}{:target="blank"}).
 
 The trip was excellent and we were disappointed to have to leave the beautiful
 weather, especially considering what we returned to.
