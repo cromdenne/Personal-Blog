@@ -7,7 +7,7 @@ comments: true
 ---
 
 Wisconsin winters are unforgiving. When wind chill factors plunge the
-temperature into the negative teens, it’s not long before the imagination
+temperature into the negative teens it’s not long before the imagination
 drifts to warmer weather.<!-- end_excerpt --> In early 2016 these conditions 
 led me into a corner of the Internet that revealed a very interesting topic: 
 travel hacking.
@@ -45,6 +45,18 @@ sign up for their REDcard program. These organizations and companies are
 looking for loyalty — when you sign up with them [you’ll probably end up being
 a repeat customer](https://www.forbes.com/sites/bryanpearson/2016/06/24/the-psychology-behind-fee-based-credit-cards-3-tips-for-retailers/#63fc79403cf9){:.underline-effect}{:target="blank"} and spending more money with them.
 
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://drive.google.com/uc?id=1_OcvyRZ9LumsrIPuVFUSNmQ5_TSrwAcb"
+       alt="Amazon credit card offer screenshot">
+  <div class="caption">
+    <p>If you shop on Amazon you've probably seen a deal like this advertised.
+    Many businesses offer some kind of incentive for signing up with their 
+    credit card or rewards program.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
+
 Credit card companies have the same incentives — when you sign up for their
 card, you become a customer likely to generate money for them by paying
 interest and fees. These two streams of revenue are pretty significant, but
@@ -58,7 +70,7 @@ So the incentives line up for the credit card companies, and they form
 partnerships with travel companies who have similar incentives. This all made
 sense to me, but could travel hacking really be so easy? Just sign up for a
 credit card and reap the rewards? What about dealing with all those points?
-And aren’t there restrictions? What about my credit score — am I going to jack 
+And aren’t there restrictions? What about my credit score — am I going to mess 
 it up by applying for and using a couple of credit cards?
 
 After reading about several great trips planned using rewards, I figured the
@@ -92,32 +104,42 @@ approved almost immediately. That was easy!
 Our first step after qualifying for the card was to add me as an authorized
 user since Taylor was the primary cardholder. This was pretty easy and we
 completed it online. By adding an authorized user we automatically earned
-5,000 bonus points. Score!
+5,000 bonus points. <span class="badge badge-gold">1</span> Score!
 
-(Note that if we were doing this today, we would NOT have added me as an
-authorized user. With a little experience we’ve learned that having just one
-person on each card is best for rewards. This is because of the rules for
-each card. Typically you can earn another sign up bonus on the same card two
-or four years after the first time you earn that bonus. That means two years
-after Taylor opened this card, she could close this account and apply for the
-card again, and then get the bonus again. The same rules apply to me as an
-authorized user. However, if I hadn’t been an authorized user on the card, I
-could have opened my own card and earned the same bonus whenever I wanted to.
-So that’s a missed opportunity for now.)
+<div class="note">
+  <div class="row label">1<span class="vertical-rule"></span></div>
+  <div class="row text">
+    Note that if we were doing this today, we would NOT have added me as an
+    authorized user. With a little experience we’ve learned that having just one
+    person on each card is best for rewards. This is because of the rules for
+    each card. Typically you can earn another sign up bonus on the same card two
+    or four years after the first time you earn that bonus. That means two years
+    after Taylor opened this card, she could close this account and apply for the
+    card again, and then get the bonus again. The same rules apply to me as an
+    authorized user. However, if I hadn’t been an authorized user on the card, I
+    could have opened my own card and earned the same bonus whenever I wanted to.
+    So that’s a missed opportunity for now.
+  </div><!-- /.row -->
+</div><!-- /.note -->
 
 The next step would be planning our spending so that we got those 50,000
 bonus points! Most rewards cards work this way — you open the card, and then
 you need to meet a “minimum spending requirement” within the first 1–4
-months. As soon as you hit the minimum spend the bonus is deposited into your
+months. <span class="badge badge-gold">2</span> As soon as you hit the minimum spend the bonus is deposited into your
 account.
 
-(Before I mention minimum spending, this is where I should say that credit
-card rewards are only worth the effort if you’re responsible with the card.
-This means paying no interest or fees other than possibly an annual renewal
-fee depending on the card. If your bonus is worth $625, but you’re racking up
-hundreds of dollars in interest, then you’re not really earning any rewards.
-Only do this if you can responsibly pay off your card so that you’re carrying
-a $0 balance every month.)
+<div class="note">
+  <div class="row label">2<span class="vertical-rule"></span></div>
+  <div class="row text">
+    Before I dive into minimum spending, this is where I should say that credit
+    card rewards are only worth the effort if you’re responsible with the card.
+    This means paying no interest or fees other than possibly an annual renewal
+    fee depending on the card. If your bonus is worth $625, but you’re racking up
+    hundreds of dollars in interest, then you’re not really coming out ahead.
+    Only do this if you can responsibly pay off your card so that you’re carrying
+    a $0 balance every month.
+  </div><!-- /.row -->
+</div><!-- /.note -->
 
 For the Chase Sapphire Preferred card, the minimum spending requirement was
 $4,000 in the first three months. This may sound like a lot, but with some
@@ -147,12 +169,12 @@ that bill for six months!
 
 After we met the minimum spending requirement  in month three, the 50,000
 bonus points were deposited into our account with that month’s billing
-statement, which was of course $0 since we always paid it off.
+statement, which was of course $0 since we always paid our balance.
 
 At this point we had the initial 5,000 bonus points from adding me as an
 authorized user, plus the 50,000 bonus points for meeting the minimum
 spending requirement. Using the card also earns you one point per dollar
-spent (with extra points for certain categories each month). So with our
+spent (with extra points for certain types of spending each month). So with our
 bonuses and our normal spending, we were right around 60,000 points already
 at the end of month three, which could translate to about $725 in travel
 rewards.
@@ -178,10 +200,20 @@ minimum effort.
 But then I looked up the [Hyatt rewards
 table](https://world.hyatt.com/content/gp/en/rewards/free-nights-upgrades.html){:.underline-effect}{:target="blank"}. There were seven categories of Hyatts, 
 ranging from fancy (the category one Hyatt Regency Green Bay, where Taylor and 
-I had our wedding reception) to super-crazy fancy (the category seven Park 
+I had our wedding reception) to super luxurious (the category seven Park 
 Hyatt Sydney in Australia, a world-renowned five-star hotel). A category one 
-Hyatt cost just 5,000 points for a free night, and a category seven cost 
-30,000.
+Hyatt was just 5,000 points for a free night, and a category seven was 30,000.
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://drive.google.com/uc?id=10mULH4okA5lMh4jOK-VX7riQ3b0LQ-PF"
+       alt="Hyatt all-inclusive resorts rewards table">
+  <div class="caption">
+    <p>In addition to the categories I mentioned above, Hyatt also has several
+    all-inclusive resorts that accept rewards points!</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
 
 Our 60,000 points had some context now, and two nights at one of the fanciest
 hotels in the world seemed intuitively more valuable than $600 cash. The math
@@ -192,25 +224,18 @@ straight-up cash!
 
 So all math aside, it was clear that the Hyatt redemption was a pretty good
 deal. A quick look at the United website showed me that 50,000 points would
-get both Taylor and I free round-trip flights to the west coast, so the flight 
-deals were promising too.
+get both Taylor and I free round-trip flights to just about anywhere in the
+United States, so the flight deals were promising too.
 
 Our next step would be to look at destinations to see how many points we’d
 need to plan a trip. We eventually settled on the Bay Area. Taylor really
-wanted to see Alcatraz, I wanted to visit the redwoods, and San Francisco
+wanted to visit Alcatraz, I wanted to explore the redwoods, and San Francisco
 seemed like an excellent first destination for us.
 
 A quick search revealed that there were five Hyatts in the Bay Area that
-would work for our trip.
-
-Hyatt House Emeryville / San Francisco Bay Area — Category 3 (12,000
-points)<br>
-Hyatt Place Emeryville / San Francisco Bay Area — Category 3 (12,000
-points)<br>
-Hyatt Centric Fisherman’s Wharf San Francisco — Category 4 (15,000
-points)<br>
-Hyatt Regency San Francisco — Category 5 (20,000 points)<br>
-Grand Hyatt San Francisco — Category 5 (20,000 points)<br>
+would work for our trip. Two were in category three (12,000 points per night), 
+one was in category four (15,000 points per night), and two were in category
+five (20,000 points per night).
 
 We probably weren’t going to stay in one of the super-fancy category five
 hotels for our first trip, so depending which of the others we chose we’d
@@ -264,7 +289,7 @@ flights, so I was looking for trips that showed me a cost of 25,000 points.
 
 Flying with rewards isn’t quite as flexible as flying with cash, but I was
 surprised that there were quite a few dates that would work for us. And even if 
-we had a rigid schedule to stick to, we could have just spend more points to 
+we had a rigid schedule to stick to, we could have just spent more points to 
 find the right flights for us.
 
 After finding flights that worked well for us I wrote up one final itinerary 
@@ -285,7 +310,7 @@ points to transfer from our Chase account into our Hyatt account (in increments
 of 1,000).
 
 The points are supposed to show up in the Hyatt account immediately after a
-transfer, but the first time I tried this transfer something went wrong! Our 
+transfer, but the first time I tried this transfer something went wrong. Our 
 points didn’t show up in the Hyatt account after a few days, so I finally 
 contacted Chase to see what was going on. They noticed the issue and reversed 
 the transfer so that I could try again. It seems like this was just a fluke, as 
@@ -311,7 +336,7 @@ using rewards, but everything worked and the bulk of our trip was taken care of!
 We had a wonderful time in California and everything worked out just as 
 planned. There were no unexpected surprises as a result of using our points, 
 and we were even able to take advantage of a deal the hotel was running to earn 
-extra points during our stay for declining room cleaning each night. Score!
+extra points during our stay!
 
 If we had booked our five nights at the Hyatt Centric Fisherman's Wharf with 
 cash it would have cost us at least $1,200. Instead we were able to use 67,500 
@@ -323,6 +348,18 @@ If we had booked our flights with cash they would have cost at least $825. So
 we saved at least $2,000 by using rewards in our first attempt! This was a 
 great return for opening a credit card and putting our normal spending on it 
 for a year, and the process was surprisingly simple.
+
+<div class="caption-img">
+  <img class="img-fluid lazy"
+       src="/images/placeholder.png"
+       data-src="https://drive.google.com/uc?id=1l66MTotsMo8zXScpbXnXkgGvbfriKBWv"
+       alt="Our total spending on the trip, broken in a category pie chart">
+  <div class="caption">
+    <p>We spent just over $1,200 for food, souvenirs and adventures in the
+    Bay Area, and we used rewards to pay for just over $2,000 in flights and 
+    five nights at our hotel.</p>
+  </div><!-- /.caption -->
+</div><!-- /.caption-img -->
 
 Without having to worry about paying for our hotel and flights, we were able to 
 take this entire trip for just $1,250. That included all of our meals, a [fancy 
